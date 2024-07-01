@@ -1,7 +1,7 @@
-# omnifood
-## project from Jonas S. Udemy course
+# Omnifood
+## Project from Jonas S. Udemy course
 ## Live Demo
-### Check out the live app [here](https://ro008.github.io/omnifood/).
+Check out the live app [here](https://ro008.github.io/omnifood/).
 
 ## Forked From
 This project is forked from [Original Repository](https://github.com/jonasschmedtmann/html-css-course).
