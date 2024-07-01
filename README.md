@@ -1,5 +1,5 @@
 # Omnifood
-## Project from Jonas S. Udemy course
+Project from Jonas S. Udemy course
 ## Live Demo
 Check out the live app [here](https://ro008.github.io/omnifood/).
 
