@@ -12,6 +12,11 @@ This project is forked from [Original Repository](https://github.com/jonasschmed
 - Modern CSS with Flexbox and Grid
 - JavaScript for interactive elements
 
+## Deployed
+
+Deployed on [GitHub Pages](https://AzumaraJoseph.github.io/Omnifood)
+
+
 ## Built With
 - JavaScript
 - HTML
