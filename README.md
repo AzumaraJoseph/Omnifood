@@ -7,8 +7,12 @@ Check out the app live demo [here](https://ro008.github.io/omnifood/).
 ## Forked From
 This project is forked from [Original Repository](https://github.com/jonasschmedtmann/html-css-course).
 
-## Built With
+## Features
+- Responsive design
+- Modern CSS with Flexbox and Grid
+- JavaScript for interactive elements
 
+## Built With
 - JavaScript
 - HTML
 - CSS
