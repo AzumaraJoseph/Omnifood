@@ -5,7 +5,7 @@ Omnifood is a fictional food delivery service. This project showcases a modern w
 Check out the live app [here](https://ro008.github.io/omnifood/).
 
 ## Installation
-To install and set up the Oxford Royale Academy Project locally, follow these steps:
+To install and set up the Omnifood Project locally, follow these steps:
 
 ```bash
 # Clone the repository
